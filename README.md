@@ -50,8 +50,10 @@ The results of the analysis are as follows:
 - **Total Revenue:** The total revenue generated is "$ 118,405.20K".
 - **Sales Quantity:** The total sales quantity is "141.31K units".
 - **Revenue by Year Trend:** The revenue trend over the years is visualized, showing growth patterns and seasonal variations.
-[https://public.tableau.com/app/profile/varun.t.r./viz/Dashboard1_17187019071190/Dashboard1?publish=yes] (Dashboard link)
+
 ## 🎯 Conclusion
 The project successfully answered the set of questions regarding Atliq's sales data. The insights gained from this project can help Atliq make informed decisions regarding market strategies, sales improvements, and revenue forecasting.
 
 Feel free to explore the analysis.sql file and the Tableau dashboard for a deeper dive into the data!
+
+[https://public.tableau.com/app/profile/varun.t.r./viz/Dashboard1_17187019071190/Dashboard1?publish=yes] (Dashboard link)
