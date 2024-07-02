@@ -1,4 +1,4 @@
-# 📊 Atliq Sales Insights Project
+# 📊 Atliq Sales Insight Project
 
 ## Description
 This project leverages SQL for data analysis and Tableau for data visualization to gain insights into Atliq's sales data. The objective is to answer several questions regarding revenue and sales trends. The SQL queries and visualizations provide comprehensive insights into the company's sales performance and trends.
