@@ -15,7 +15,7 @@ To replicate this project on your machine, follow these steps:
 *Note:* For MySQL users, restoring the backup files can save you time.
 
 ## 🗂️ Schema Diagram
-Refer to the provided schema diagram (Screenshot_1) for table structures and relationships.
+Refer to the provided schema diagram for table structures and relationships.
 <img width="685" alt="Screenshot 2024-07-02 at 11 49 00 AM" src="https://github.com/varun-TR/Atliq_sales_insights/assets/67640037/a40179fc-272c-4aba-9ec4-13bb605508f4">
 
 
